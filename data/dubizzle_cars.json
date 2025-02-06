@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Land Rover Range Rover Sport SE",
+    "price": {
+      "formatted": "179,999",
+      "raw": 179999,
+      "currency": "AED"
+    }
+  },
+  {
+    "title": "Land Rover Range Rover Evoque R-Dynamic",
+    "price": {
+      "formatted": "204,999",
+      "raw": 204999,
+      "currency": "AED"
+    }
+  },
+  {
+    "title": "Land Rover Range Rover Velar P250 S",
+    "price": {
+      "formatted": "146,999",
+      "raw": 146999,
+      "currency": "AED"
+    }
+  },
+  {
+    "title": "Land Rover Range Rover Velar R-Dynamic",
+    "price": {
+      "formatted": "144,999",
+      "raw": 144999,
+      "currency": "AED"
+    }
+  },
+  {
+    "title": "Audi Q3 40 TFSI Design Quattro",
+    "price": {
+      "formatted": "199,999",
+      "raw": 199999,
+      "currency": "AED"
+    }
+  }
+]
